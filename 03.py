@@ -12,3 +12,12 @@ def rotate(array, steps):
 result = rotate(given_array, to_the_right)
 print("The given array is: ", given_array)
 print("The result is: ", result)
+
+# OUTPUT:
+
+'''
+
+The given array is:  [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+The result is:  [8, 9, 10, 0, 1, 2, 3, 4, 5, 6, 7]
+
+'''

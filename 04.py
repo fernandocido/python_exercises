@@ -29,3 +29,13 @@ result = merge(array1, array2)
 print("array1 is: ", array1)
 print("array2 is: ", array2)
 print("The merged array is: ", result)
+
+# OUTPUT:
+
+'''
+
+array1 is:  [1, 3, 5]
+array2 is:  [2, 4, 6]
+The merged array is:  [1, 2, 3, 4, 5, 6]
+
+'''

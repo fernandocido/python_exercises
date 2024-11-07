@@ -15,4 +15,13 @@ def find_pairs(target_array, target_sum):
     return pairs
 
 result = find_pairs(target_array, target_sum)
+print("Pairs with Target Sum: ")
 print(result)
+
+# OUTPUT:
+
+'''
+
+[(4, 6), (3, 7), (2, 8), (1, 9), (0, 10)]
+
+'''

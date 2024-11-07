@@ -10,5 +10,18 @@ def remove_duplicates(array):
 fruits = ["apple", "banana", "apple", "banana", "grapes", "mango", "grapes", "cherry", "oranges"]
 unique_fruits = remove_duplicates(fruits)
 
+print("Complete List: ")
 print(fruits)
+print("Complete List without duplicates: ")
 print(unique_fruits)
+
+# OUTPUT
+
+'''
+
+Complete List: 
+['apple', 'banana', 'apple', 'banana', 'grapes', 'mango', 'grapes', 'cherry', 'oranges']
+Complete List without duplicates: 
+['apple', 'banana', 'grapes', 'mango', 'cherry', 'oranges']
+
+'''
