@@ -20,7 +20,7 @@
 
 7. **Merge Two Sorted Linked Lists:** Given two sorted linked lists, merge them into one sorted linked list.
 
-8. **Find N-th Node from End:** Implement a function to find the n-th node from the end of a linked list.
+8. **Find *n*-th Node from End:** Implement a function to find the n-th node from the end of a linked list.
 
 ### Stacks
 
